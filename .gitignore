@@ -1,0 +1,15 @@
+# Generated output (contains YOUR entity IDs — keep it out of the repo)
+sprinklers.yaml
+rachio_dashboard.yaml
+
+# Secrets
+.ha_token
+*.token
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
